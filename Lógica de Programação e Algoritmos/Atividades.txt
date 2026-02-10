@@ -1,0 +1,36 @@
+Atividade 1: Ficha de Produto Criativa
+Crie um programa que solicite ao usuário os seguintes dados de um produto:
+* Nome do produto
+* Marca
+* Categoria
+* Código do produto
+* Descrição
+Requisito: Após a leitura, o programa deve exibir os dados em formato de “ficha” organizada, semelhante a um recibo. Utilize o caractere asterisco * para enfeitar a ficha. Use sua criatividade para o layout!
+___________________________________________________________________________________________________
+Atividade 2: Registro de Livro
+Crie um programa que solicite os dados de um livro:
+* Título
+* Autor
+* Editora
+* Ano de publicação
+* Gênero
+Requisito: Ao final, mostre os dados em um bloco formatado utilizando linhas de underline ___ e separadores de traços --- para organizar as informações.
+___________________________________________________________________________________________________
+Atividade 3: Operações Matemáticas Individuais
+Você deve desenvolver 3 programas distintos (um para cada operação abaixo). Em cada programa, o usuário deverá digitar 2 números e o sistema calculará apenas a operação específica.
+
+Programa 1 – Subtração: Ler 2 números e mostrar a subtração (primeiro − segundo).
+Programa 2 – Multiplicação: Ler 2 números e mostrar a multiplicação.
+Programa 3 – Divisão: Ler 2 números e mostrar a divisão (primeiro ÷ segundo).
+
+Regras obrigatórias para os 3 programas:
+Cada operação deve estar em um arquivo/programa diferente.
+Utilize variáveis do tipo REAL (float).
+
+As mensagens de interação devem ser exatamente:
+“Digite o primeiro número: ”
+“Digite o segundo número: ”
+“O resultado da operação é: [resultado]”
+___________________________________________________________________________________________________
+Atividade 4: Narrativa da Troca do Pneu
+(passos de 1 a 10 em ordem)
