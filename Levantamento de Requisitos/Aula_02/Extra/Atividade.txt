@@ -1,0 +1,39 @@
+FAZER DOWNLOAD DE IMAGENS
+
+
+
+Windows [titulo]
+	podendo ser:
+		* Bill Gates
+		* MS-DOS
+		* Empresa Microsoft
+
+Windows 8 [titulo]
+	Uma imagem de cada:
+	Logo
+	Desktop
+	
+Windows 10 [titulo]
+	Uma imagem de cada:
+	Logo
+	Desktop
+	
+Linux  [titulo]
+	podendo ser:
+		* Mascote 
+		* Criador Linus Trovald
+
+Debian [titulo] (distribuições)
+	Uma imagem de cada:
+	Logo
+	Desktop
+
+Mac OS X [titulo] 
+	Podendo ser:
+		* Empresa
+		* Fundadores
+
+Snow Leopard [titulo] (e suas versões)
+	* Logo
+	* Desktop 
+	
