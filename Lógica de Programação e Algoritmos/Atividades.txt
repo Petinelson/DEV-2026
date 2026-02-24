@@ -40,13 +40,13 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________
 ___________________________________________________________________________________________________
 
-DATA 24/03/2026
+DATA 24/02/2026
 
 Cálculo de Desconto em um Produto - (usar Portugol).
 • Se o usuário informar que o preço original é 100 e o desconto é de 20%, o programa deverá calcular que o valor do desconto é 20 e, consequentemente, o preço final será 80.
 
 Exemplo de fórmula:
-valor_desconto = preco_original * porcentagem_desconto /
+valor_desconto = preco_original * ( porcentagem_desconto / 100 )
 preco_final = preco_original valor_desconto
 
 Copiar e responder no carderno
@@ -67,6 +67,7 @@ Requisitos do Programa
 Copiar e responder no carderno
 • Como o usuário sabe quando inserir o nome do aluno e as três notas no programa? Será que ele pode inserir as notas tanto antes quanto depois do nome?
 • Quantas variáveis são necessárias para essa atividade e por que cada uma é importante?
+
 
 
 
