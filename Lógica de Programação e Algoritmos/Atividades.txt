@@ -52,7 +52,6 @@ preco_final = preco_original - valor_desconto
 Copiar e responder no carderno
 • De que forma os operadores aritméticos influenciam o resultado de uma expressão, considerando a ordem de precedência?
 • Como funciona a atribuição de valores às variáveis e por que ela é fundamental?
-• Como funciona a atribuição de valores às variáveis e por que ela é fundamental?
 • De que maneira os exercícios de cálculo de porcentagem e desconto reforçam o entendimento dos conceitos de operadores e atribuição?
 
 ---------------------------------------------------------------------
@@ -67,6 +66,7 @@ Requisitos do Programa
 Copiar e responder no carderno
 • Como o usuário sabe quando inserir o nome do aluno e as três notas no programa? Será que ele pode inserir as notas tanto antes quanto depois do nome?
 • Quantas variáveis são necessárias para essa atividade e por que cada uma é importante?
+
 
 
 
