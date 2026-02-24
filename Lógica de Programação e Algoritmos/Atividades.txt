@@ -33,4 +33,40 @@ As mensagens de interação devem ser exatamente:
 “O resultado da operação é: [resultado]”
 ___________________________________________________________________________________________________
 Atividade 4: Narrativa da Troca do Pneu
+
 (passos de 1 a 10 em ordem)
+
+___________________________________________________________________________________________________
+___________________________________________________________________________________________________
+___________________________________________________________________________________________________
+
+
+Cálculo de Desconto em um Produto - (usar Portugol).
+• Se o usuário informar que o preço original é 100 e o desconto é de 20%, o programa deverá calcular que o valor do desconto é 20 e, consequentemente, o preço final será 80.
+
+Exemplo de fórmula:
+valor_desconto = preco_original * porcentagem_desconto /
+preco_final = preco_original valor_desconto
+
+Copiar e responder no carderno
+• De que forma os operadores aritméticos influenciam o resultado de uma expressão, considerando a ordem de precedência?
+• Como funciona a atribuição de valores às variáveis e por que ela é fundamental?
+• Como funciona a atribuição de valores às variáveis e por que ela é fundamental?
+• De que maneira os exercícios de cálculo de porcentagem e desconto reforçam o entendimento dos conceitos de operadores e atribuição?
+
+---------------------------------------------------------------------
+Calcular média do aluno - (usar Portugol)
+Você foi contratado para desenvolver um pequeno programa para uma escola, com a finalidade de calcular a média de um aluno a partir de três notas O sistema precisa ser simples e direto, exibindo apenas o nome do aluno e sua média final A escola deseja que esse programa seja eficiente e fácil de usar, sem exibição de mensagens adicionais
+Requisitos do Programa
+• O programa deve solicitar o nome do aluno
+• Deve solicitar o valor de três notas
+• O programa deve calcular a média das três notas inseridas
+• O programa deve exibir o nome do aluno e sua média calculada
+---------------------------------------------------------------------
+Copiar e responder no carderno
+• Como o usuário sabe quando inserir o nome do aluno e as três notas no programa? Será que ele pode inserir as notas tanto antes quanto depois do nome?
+• Quantas variáveis são necessárias para essa atividade e por que cada uma é importante?
+
+
+
+
