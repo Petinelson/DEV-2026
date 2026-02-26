@@ -11,9 +11,8 @@ Reconhecendo que o aprendizado ultrapassa os limites da sala de aula, o [Guia Pa
 Este repositório é uma ponte entre teoria e prática, visando ser um recurso valioso na jornada de aprendizagem. Explore, aprenda e cresça neste caminho educacional!
 
 ### Data
-Início: 
-27/01/2026
-23/06/2026
+#### 27/01/2026
+#### 23/06/2026
 
 **Lembrem-se:** O conhecimento é um caminho sem fim, estes materiais são guias para percorrê-lo com mais firmeza e convicção.
 
