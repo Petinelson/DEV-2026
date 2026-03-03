@@ -1,0 +1,29 @@
+
+Pesquise sobre o assunto "Regras de Negócios aplicados em DS" e responda:
+
+1 - Explique com suas palavras o que são regras de negócio e dê um exemplo aplicado a um sistema escolar, sistema de vendas e um sistema de biblioteca.
+
+2 - Por que é importante separar regras de negócio da interface do usuário durante o desenvolvimento de um sistema? Dê sua opnião abordando o contexto da atividade das empresas fictícias
+
+3 - Analise a seguinte situação:
+"Um aluno só pode ser aprovado se tiver média ≥ 7 e frequência ≥ 75%."
+Quais regras de negócio estão presentes e como elas impactam o sistema?
+
+--------------------------------------------------------------------------
+Pesquise sobre UI(Interface do Usuário)
+
+4 - O que é UI em um sistema e quais elementos visuais normalmente fazem parte dela?
+
+5 - Como a escolha de cores, tipografia e organização dos botões pode influenciar a usabilidade de uma aplicação?
+
+6 - Observe mentalmente um sistema que você usa com frequência.
+Quais aspectos da interface você considera bem feitos e quais poderiam melhorar? Justifique.
+
+--------------------------------------------------------------------------
+Pesquise sobre UX(Experiência do Usuário)
+
+7 - Explique a diferença entre UI e UX usando um exemplo prático de um aplicativo conhecido.
+
+8 - Por que um sistema visualmente bonito pode ainda assim ter uma experiência do usuário ruim? Dê um exemplo, pode ser utilizando o seu projeto como atividade.
+
+9 - Quais fatores devem ser considerados para garantir uma boa experiência do usuário em um sistema web ou mobile?
