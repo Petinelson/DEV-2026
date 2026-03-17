@@ -8,4 +8,56 @@ Atividades:
 O grupo deve elaborar um conteúdo de 2 páginas, contextualizando o vírus pelo qual ficou responsável. Como exemplo, o conteúdo pode abordar: definição e conceito, nomes de vírus e sintomas apresentados no computador.
 O grupo deverá criar 6 perguntas de múltipla escolha, com 3 alternativas cada, e entregar ao professor as perguntas com o respectivo gabarito
 
+1º grupo - Ransomware
+Heitor Marques Jorge
+Leonardo Silvestre Santos
+Isaque Renato Mendes dos Santos
+Pedro Henrique de Sena Moura
+
+2º grupo - Trojan
+Laysa Castro Ferreira
+Kamilly Victoria Martins da Cruz
+Heloísa Castelo Lopes
+Maria Eduarda Correia de Almeida
+
+3º grupo - Spyware
+Marcella Isis Senerini
+Yasmin Aparecida Guelere Oliveira
+Ketellen Tsutsumi de Santana
+Luiza Barbosa Mielczarek
+
+4º grupo - Infostealer
+João Victor Silva Torres
+Matheus Augusto Ribeiro
+Davi Octavio de Almeida Navarro dos Santos
+Luiza Torezan Martins Silva
+
+5º grupo - Worm
+Erick Barros Sobral
+Gabriel Prado Marques
+Mayara Xavier Alves dos Santos
+Victor Rodrigues de Souza
+
+6º grupo - Bot e botnet
+Pedro Aquino Soares Silva
+Bryan Massagardi Barrocal Toaldo
+Allana Ferraz Coutinho
+Larissa Moura Custodio
+
+7º grupo - Cryptojacking
+Carlos Henrique Oliveira Santos
+Nicolas Gonçalves de Aquino
+João Pedro Palmeira da Cruz Silva
+Lívia Fernanda Martins Sousa
+
+8º grupo - Adware malicioso e programas potencialmente indesejados
+Gustavo Pereira do Nascimento
+Gustavo Silva de Moraes
+Luiz Gustavo F. de Moraes
+Luis Felipe Neto de Abreu
+
+
+
+
+
 4 - Responder perguntas no formulário (em breve)
