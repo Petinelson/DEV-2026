@@ -1,0 +1,15 @@
+
+Todo arquivo de disco virtual (VDI, VHD, VMDK) possui um "número de série" único gravado dentro dele, chamado UUID. O VirtualBox usa esse ID para indexar os discos em seu banco de dados global.
+O Problema da Duplicação:
+Se você simplesmente copiar e colar um arquivo .vdi usando o explorador de arquivos do Windows e tentar anexar essa cópia a uma nova Máquina Virtual, o VirtualBox exibirá um erro:
+
+"Cannot register the hard disk because a hard disk with UUID already exists."
+
+Isso acontece porque, para o VirtualBox, os dois arquivos (o original e a cópia) são o "mesmo" objeto, já que possuem o mesmo UUID interno.
+
+
+Para sanar o problema:
+
+cd "C:\Program Files\Oracle\VirtualBox"
+
+vboxmanage internalcommands sethduuid "C:\caminho\para\seu\disco.vdi"
